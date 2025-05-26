@@ -1,0 +1,10 @@
+[33me299c0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to e299c0f
+[33m5db6498[m HEAD@{1}: reset: moving to 5db6498
+[33m5db6498[m HEAD@{2}: rebase (abort): returning to refs/heads/main
+[33me299c0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{3}: pull origin main --rebase (start): checkout e299c0f374cdd7c2403eabf818ca28a65262044e
+[33m5db6498[m HEAD@{4}: commit (amend): Initial commit
+[33me299c0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{5}: checkout: moving from main to main
+[33me299c0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{6}: Branch: renamed refs/heads/master to refs/heads/main
+[33me299c0f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{8}: commit: Initial commit
+[33mcf67264[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{9}: commit: Update SecurityConfig
+[33mce6d62b[m HEAD@{10}: commit (initial): Initial commit
